@@ -13,6 +13,11 @@ The questions we are trying to answer are:
 2. Do people who smoke are more predisposed to have a stroke?
 3. Can we predict a stroke based on this variables?
 
+## Medium Post
+
+Here is a Medium post about this project:
+
+https://lu-cubvar.medium.com/initials-steps-on-a-predicting-strokes-a-data-science-approach-19eee4d52b34
 
 ## Usage 
 
